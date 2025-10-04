@@ -15,10 +15,17 @@
     },
     {
       "id": 3,
-      "name": "Quedes",
+      "name": "Quëndres",
       "role": "Dermopigmentista",
       "description": "Professionista specializzata in tecniche avanzate di micropigmentazione estetica per valorizzare il viso e correggere piccole imperfezioni.",
       "image": "/images/073-foto.avif"
+    },
+    {
+      "id": 4,
+      "name": "Laura",
+      "role": "Parrucchiera",
+      "description": "Hairstylist creativa, esperta in tendenze moda, colorazioni innovative e tagli su misura per uno stile unico e sempre attuale.",
+      "image": "/images/foto-010.avif"
     }
   ]
   
