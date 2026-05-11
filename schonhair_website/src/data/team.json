@@ -26,6 +26,13 @@
       "role": "Parrucchiera",
       "description": "Parrucchiera junior con una grande passione per il suo lavoro. Si occupa di trattamenti per donna e uomo, sempre con cortesia, gentilezza e professionalità. Parla più lingue, qualità che le permette di accogliere e mettere a proprio agio ogni cliente.",
       "image": "/images/foto-010.avif"
+    },
+    {
+      "id": 5,
+      "name": "Leonie",
+      "role": "Parrucchiera",
+      "description": "Apprendista parrucchiera con una vera passione per i capelli. Cura trattamenti per uomo e donna con estrema gentilezza. Grazie alla conoscenza di più lingue, sa come accogliere ogni cliente e farlo sentire subito a casa.",
+      "image": "/images/Lorna.jpeg"
     }
   ]
   
