@@ -6,7 +6,6 @@ const photos = [
   "/images/010-foto.avif",
   "/images/017-foto.avif",
   "/images/018-foto.avif",
-  "/images/125-foto.avif",
   "/images/013-foto.avif",
   "/images/063-foto.avif",
   "/images/015-foto.avif",
