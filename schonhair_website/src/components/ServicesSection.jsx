@@ -23,7 +23,7 @@ const ServicesSection = () => {
           <div className="services__label">Colorazioni Personalizzate</div>
         </div>
         <div className="services__card" data-aos="zoom-in" data-aos-delay="100">
-          <img src="/images/102-foto.avif" alt="Hair Cut & Styling" />
+          <img src="/images/image_7.avif" alt="Hair Cut & Styling" />
           <div className="services__label">Taglio e Styling</div>
         </div>
         <div className="services__card" data-aos="zoom-in" data-aos-delay="200">
